@@ -1,0 +1,3 @@
+SELECT NAME
+FROM customers
+ORDER BY NAME
